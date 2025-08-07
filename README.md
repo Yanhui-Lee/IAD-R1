@@ -3,13 +3,14 @@ We proposes IAD-R1, a universal post-training framework that enhances Vision-Lan
 **The code, datasets, and all model weights will be released publicly upon acceptance of this paper.** 
 
 
+## Open source🤗🤗🤗
+
 📓[IAD-R1 ArXiv Paper]()
 💾[Expert-AD Dataset](https://huggingface.co/datasets/yanhui01/Expert-AD)
 🤖[IAD-R1 Model](https://huggingface.co/yanhui01/IAD-R1)
 
 
-## Overall
-🤯🤯🤯
+## Overall🤯🤯🤯
 ![Overall](assets/overall.png)
 **Overview of IAD-R1.** The top left panel illustrates the composition of the Expert-AD and the two-stage training framework of IAD-R1. The bottom left panel shows an output example of IAD-R1 for anomaly detection. The right panels present quantitative analyses showcasing the performance of IAD-R1 across different model confgurations and datasets.
 
