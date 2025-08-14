@@ -5,7 +5,7 @@ We proposes IAD-R1, a universal post-training framework that enhances Vision-Lan
 
 ## Open source🤗🤗🤗
 
-📓[IAD-R1 ArXiv Paper]()
+📓[IAD-R1 ArXiv Paper](https://arxiv.org/abs/2508.09178)
 💾[Expert-AD Dataset](https://huggingface.co/datasets/yanhui01/Expert-AD)
 🤖[IAD-R1 Model](https://huggingface.co/yanhui01/IAD-R1)
 
