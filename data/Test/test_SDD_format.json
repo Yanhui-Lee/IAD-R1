@@ -1,0 +1,6122 @@
+{
+    "SDD/test/good/kos01_Part1_2.png": {
+        "image_path": "SDD/test/good/kos01_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos01_Part4_0.png": {
+        "image_path": "SDD/test/good/kos01_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos01_Part5_2.png": {
+        "image_path": "SDD/test/good/kos01_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos01_Part6_0.png": {
+        "image_path": "SDD/test/good/kos01_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos01_Part6_2.png": {
+        "image_path": "SDD/test/good/kos01_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos01_Part7_0.png": {
+        "image_path": "SDD/test/good/kos01_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos02_Part2_0.png": {
+        "image_path": "SDD/test/good/kos02_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos02_Part3_0.png": {
+        "image_path": "SDD/test/good/kos02_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos02_Part6_2.png": {
+        "image_path": "SDD/test/good/kos02_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos02_Part7_2.png": {
+        "image_path": "SDD/test/good/kos02_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part0_2.png": {
+        "image_path": "SDD/test/good/kos03_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part1_2.png": {
+        "image_path": "SDD/test/good/kos03_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part3_0.png": {
+        "image_path": "SDD/test/good/kos03_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part3_2.png": {
+        "image_path": "SDD/test/good/kos03_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part5_1.png": {
+        "image_path": "SDD/test/good/kos03_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part7_0.png": {
+        "image_path": "SDD/test/good/kos03_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos03_Part7_1.png": {
+        "image_path": "SDD/test/good/kos03_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos04_Part2_1.png": {
+        "image_path": "SDD/test/good/kos04_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos04_Part2_2.png": {
+        "image_path": "SDD/test/good/kos04_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos04_Part5_0.png": {
+        "image_path": "SDD/test/good/kos04_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos04_Part6_1.png": {
+        "image_path": "SDD/test/good/kos04_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos04_Part7_1.png": {
+        "image_path": "SDD/test/good/kos04_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos05_Part1_0.png": {
+        "image_path": "SDD/test/good/kos05_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos05_Part1_1.png": {
+        "image_path": "SDD/test/good/kos05_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos05_Part3_1.png": {
+        "image_path": "SDD/test/good/kos05_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos05_Part4_2.png": {
+        "image_path": "SDD/test/good/kos05_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos05_Part6_2.png": {
+        "image_path": "SDD/test/good/kos05_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part1_1.png": {
+        "image_path": "SDD/test/good/kos06_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part1_2.png": {
+        "image_path": "SDD/test/good/kos06_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part2_2.png": {
+        "image_path": "SDD/test/good/kos06_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part3_1.png": {
+        "image_path": "SDD/test/good/kos06_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part4_1.png": {
+        "image_path": "SDD/test/good/kos06_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part5_2.png": {
+        "image_path": "SDD/test/good/kos06_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos06_Part6_1.png": {
+        "image_path": "SDD/test/good/kos06_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part0_2.png": {
+        "image_path": "SDD/test/good/kos07_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part3_0.png": {
+        "image_path": "SDD/test/good/kos07_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part4_0.png": {
+        "image_path": "SDD/test/good/kos07_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part4_1.png": {
+        "image_path": "SDD/test/good/kos07_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part6_2.png": {
+        "image_path": "SDD/test/good/kos07_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos07_Part7_1.png": {
+        "image_path": "SDD/test/good/kos07_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos08_Part0_1.png": {
+        "image_path": "SDD/test/good/kos08_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos08_Part2_0.png": {
+        "image_path": "SDD/test/good/kos08_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos08_Part6_2.png": {
+        "image_path": "SDD/test/good/kos08_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos08_Part7_1.png": {
+        "image_path": "SDD/test/good/kos08_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part1_1.png": {
+        "image_path": "SDD/test/good/kos09_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part2_0.png": {
+        "image_path": "SDD/test/good/kos09_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part2_2.png": {
+        "image_path": "SDD/test/good/kos09_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part3_0.png": {
+        "image_path": "SDD/test/good/kos09_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part3_1.png": {
+        "image_path": "SDD/test/good/kos09_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part4_1.png": {
+        "image_path": "SDD/test/good/kos09_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part5_0.png": {
+        "image_path": "SDD/test/good/kos09_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos09_Part6_2.png": {
+        "image_path": "SDD/test/good/kos09_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part0_1.png": {
+        "image_path": "SDD/test/good/kos10_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part1_1.png": {
+        "image_path": "SDD/test/good/kos10_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part2_0.png": {
+        "image_path": "SDD/test/good/kos10_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part3_0.png": {
+        "image_path": "SDD/test/good/kos10_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part5_1.png": {
+        "image_path": "SDD/test/good/kos10_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part6_1.png": {
+        "image_path": "SDD/test/good/kos10_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part7_0.png": {
+        "image_path": "SDD/test/good/kos10_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos10_Part7_1.png": {
+        "image_path": "SDD/test/good/kos10_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part0_1.png": {
+        "image_path": "SDD/test/good/kos11_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part1_0.png": {
+        "image_path": "SDD/test/good/kos11_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part3_1.png": {
+        "image_path": "SDD/test/good/kos11_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part5_0.png": {
+        "image_path": "SDD/test/good/kos11_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part5_1.png": {
+        "image_path": "SDD/test/good/kos11_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos11_Part6_2.png": {
+        "image_path": "SDD/test/good/kos11_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part1_0.png": {
+        "image_path": "SDD/test/good/kos12_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part1_2.png": {
+        "image_path": "SDD/test/good/kos12_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part2_0.png": {
+        "image_path": "SDD/test/good/kos12_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part2_1.png": {
+        "image_path": "SDD/test/good/kos12_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part2_2.png": {
+        "image_path": "SDD/test/good/kos12_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part3_1.png": {
+        "image_path": "SDD/test/good/kos12_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part4_1.png": {
+        "image_path": "SDD/test/good/kos12_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part4_2.png": {
+        "image_path": "SDD/test/good/kos12_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part5_0.png": {
+        "image_path": "SDD/test/good/kos12_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos12_Part6_1.png": {
+        "image_path": "SDD/test/good/kos12_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos13_Part5_0.png": {
+        "image_path": "SDD/test/good/kos13_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos13_Part6_2.png": {
+        "image_path": "SDD/test/good/kos13_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos13_Part7_0.png": {
+        "image_path": "SDD/test/good/kos13_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos13_Part7_1.png": {
+        "image_path": "SDD/test/good/kos13_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos14_Part0_2.png": {
+        "image_path": "SDD/test/good/kos14_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos14_Part3_1.png": {
+        "image_path": "SDD/test/good/kos14_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos14_Part7_1.png": {
+        "image_path": "SDD/test/good/kos14_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos15_Part0_1.png": {
+        "image_path": "SDD/test/good/kos15_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos15_Part1_1.png": {
+        "image_path": "SDD/test/good/kos15_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos15_Part2_2.png": {
+        "image_path": "SDD/test/good/kos15_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos15_Part5_1.png": {
+        "image_path": "SDD/test/good/kos15_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos15_Part6_2.png": {
+        "image_path": "SDD/test/good/kos15_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos16_Part0_2.png": {
+        "image_path": "SDD/test/good/kos16_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos16_Part3_0.png": {
+        "image_path": "SDD/test/good/kos16_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos16_Part4_2.png": {
+        "image_path": "SDD/test/good/kos16_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos16_Part6_0.png": {
+        "image_path": "SDD/test/good/kos16_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos16_Part7_1.png": {
+        "image_path": "SDD/test/good/kos16_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part1_0.png": {
+        "image_path": "SDD/test/good/kos17_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part1_2.png": {
+        "image_path": "SDD/test/good/kos17_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part2_0.png": {
+        "image_path": "SDD/test/good/kos17_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part2_2.png": {
+        "image_path": "SDD/test/good/kos17_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part3_1.png": {
+        "image_path": "SDD/test/good/kos17_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part3_2.png": {
+        "image_path": "SDD/test/good/kos17_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part4_2.png": {
+        "image_path": "SDD/test/good/kos17_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part5_0.png": {
+        "image_path": "SDD/test/good/kos17_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part5_2.png": {
+        "image_path": "SDD/test/good/kos17_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos17_Part7_2.png": {
+        "image_path": "SDD/test/good/kos17_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part0_0.png": {
+        "image_path": "SDD/test/good/kos18_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part1_1.png": {
+        "image_path": "SDD/test/good/kos18_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part3_0.png": {
+        "image_path": "SDD/test/good/kos18_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part3_2.png": {
+        "image_path": "SDD/test/good/kos18_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part4_2.png": {
+        "image_path": "SDD/test/good/kos18_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part5_1.png": {
+        "image_path": "SDD/test/good/kos18_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part6_2.png": {
+        "image_path": "SDD/test/good/kos18_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos18_Part7_1.png": {
+        "image_path": "SDD/test/good/kos18_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos19_Part1_1.png": {
+        "image_path": "SDD/test/good/kos19_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos19_Part4_2.png": {
+        "image_path": "SDD/test/good/kos19_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos19_Part6_1.png": {
+        "image_path": "SDD/test/good/kos19_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos19_Part6_2.png": {
+        "image_path": "SDD/test/good/kos19_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos19_Part7_1.png": {
+        "image_path": "SDD/test/good/kos19_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part0_2.png": {
+        "image_path": "SDD/test/good/kos20_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part1_1.png": {
+        "image_path": "SDD/test/good/kos20_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part2_2.png": {
+        "image_path": "SDD/test/good/kos20_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part3_1.png": {
+        "image_path": "SDD/test/good/kos20_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part4_2.png": {
+        "image_path": "SDD/test/good/kos20_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part6_0.png": {
+        "image_path": "SDD/test/good/kos20_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part6_2.png": {
+        "image_path": "SDD/test/good/kos20_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos20_Part7_0.png": {
+        "image_path": "SDD/test/good/kos20_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part0_2.png": {
+        "image_path": "SDD/test/good/kos21_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part1_0.png": {
+        "image_path": "SDD/test/good/kos21_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part1_2.png": {
+        "image_path": "SDD/test/good/kos21_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part2_0.png": {
+        "image_path": "SDD/test/good/kos21_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part3_1.png": {
+        "image_path": "SDD/test/good/kos21_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part4_0.png": {
+        "image_path": "SDD/test/good/kos21_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part4_1.png": {
+        "image_path": "SDD/test/good/kos21_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part6_0.png": {
+        "image_path": "SDD/test/good/kos21_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos21_Part6_1.png": {
+        "image_path": "SDD/test/good/kos21_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos22_Part0_1.png": {
+        "image_path": "SDD/test/good/kos22_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos22_Part1_0.png": {
+        "image_path": "SDD/test/good/kos22_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos22_Part4_2.png": {
+        "image_path": "SDD/test/good/kos22_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos22_Part5_1.png": {
+        "image_path": "SDD/test/good/kos22_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos23_Part1_0.png": {
+        "image_path": "SDD/test/good/kos23_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos23_Part2_0.png": {
+        "image_path": "SDD/test/good/kos23_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos23_Part3_1.png": {
+        "image_path": "SDD/test/good/kos23_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part0_1.png": {
+        "image_path": "SDD/test/good/kos24_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part1_0.png": {
+        "image_path": "SDD/test/good/kos24_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part1_2.png": {
+        "image_path": "SDD/test/good/kos24_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part2_2.png": {
+        "image_path": "SDD/test/good/kos24_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part3_0.png": {
+        "image_path": "SDD/test/good/kos24_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part3_2.png": {
+        "image_path": "SDD/test/good/kos24_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part4_2.png": {
+        "image_path": "SDD/test/good/kos24_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part5_2.png": {
+        "image_path": "SDD/test/good/kos24_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos24_Part7_2.png": {
+        "image_path": "SDD/test/good/kos24_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part0_0.png": {
+        "image_path": "SDD/test/good/kos25_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part0_1.png": {
+        "image_path": "SDD/test/good/kos25_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part1_0.png": {
+        "image_path": "SDD/test/good/kos25_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part2_0.png": {
+        "image_path": "SDD/test/good/kos25_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part5_1.png": {
+        "image_path": "SDD/test/good/kos25_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part6_2.png": {
+        "image_path": "SDD/test/good/kos25_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos25_Part7_1.png": {
+        "image_path": "SDD/test/good/kos25_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos26_Part1_0.png": {
+        "image_path": "SDD/test/good/kos26_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos26_Part1_2.png": {
+        "image_path": "SDD/test/good/kos26_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos26_Part3_0.png": {
+        "image_path": "SDD/test/good/kos26_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos26_Part5_2.png": {
+        "image_path": "SDD/test/good/kos26_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part0_0.png": {
+        "image_path": "SDD/test/good/kos27_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part1_1.png": {
+        "image_path": "SDD/test/good/kos27_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part1_2.png": {
+        "image_path": "SDD/test/good/kos27_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part4_0.png": {
+        "image_path": "SDD/test/good/kos27_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part6_1.png": {
+        "image_path": "SDD/test/good/kos27_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part7_0.png": {
+        "image_path": "SDD/test/good/kos27_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos27_Part7_2.png": {
+        "image_path": "SDD/test/good/kos27_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part1_2.png": {
+        "image_path": "SDD/test/good/kos28_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part2_0.png": {
+        "image_path": "SDD/test/good/kos28_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part3_0.png": {
+        "image_path": "SDD/test/good/kos28_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part4_0.png": {
+        "image_path": "SDD/test/good/kos28_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part6_1.png": {
+        "image_path": "SDD/test/good/kos28_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part7_1.png": {
+        "image_path": "SDD/test/good/kos28_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos28_Part7_2.png": {
+        "image_path": "SDD/test/good/kos28_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos29_Part0_0.png": {
+        "image_path": "SDD/test/good/kos29_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos29_Part1_0.png": {
+        "image_path": "SDD/test/good/kos29_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos29_Part1_2.png": {
+        "image_path": "SDD/test/good/kos29_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos29_Part4_1.png": {
+        "image_path": "SDD/test/good/kos29_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos29_Part7_0.png": {
+        "image_path": "SDD/test/good/kos29_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos30_Part0_2.png": {
+        "image_path": "SDD/test/good/kos30_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos30_Part1_0.png": {
+        "image_path": "SDD/test/good/kos30_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos30_Part5_0.png": {
+        "image_path": "SDD/test/good/kos30_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos30_Part7_1.png": {
+        "image_path": "SDD/test/good/kos30_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part1_0.png": {
+        "image_path": "SDD/test/good/kos31_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part3_0.png": {
+        "image_path": "SDD/test/good/kos31_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part3_2.png": {
+        "image_path": "SDD/test/good/kos31_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part5_1.png": {
+        "image_path": "SDD/test/good/kos31_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part7_0.png": {
+        "image_path": "SDD/test/good/kos31_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos31_Part7_1.png": {
+        "image_path": "SDD/test/good/kos31_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos32_Part4_0.png": {
+        "image_path": "SDD/test/good/kos32_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos32_Part4_1.png": {
+        "image_path": "SDD/test/good/kos32_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos32_Part6_0.png": {
+        "image_path": "SDD/test/good/kos32_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos32_Part7_1.png": {
+        "image_path": "SDD/test/good/kos32_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part0_0.png": {
+        "image_path": "SDD/test/good/kos33_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part1_0.png": {
+        "image_path": "SDD/test/good/kos33_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part1_1.png": {
+        "image_path": "SDD/test/good/kos33_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part1_2.png": {
+        "image_path": "SDD/test/good/kos33_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part3_0.png": {
+        "image_path": "SDD/test/good/kos33_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part4_0.png": {
+        "image_path": "SDD/test/good/kos33_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part4_2.png": {
+        "image_path": "SDD/test/good/kos33_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part6_0.png": {
+        "image_path": "SDD/test/good/kos33_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos33_Part6_2.png": {
+        "image_path": "SDD/test/good/kos33_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part0_2.png": {
+        "image_path": "SDD/test/good/kos34_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part2_1.png": {
+        "image_path": "SDD/test/good/kos34_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part3_0.png": {
+        "image_path": "SDD/test/good/kos34_Part3_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part3_2.png": {
+        "image_path": "SDD/test/good/kos34_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part6_0.png": {
+        "image_path": "SDD/test/good/kos34_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos34_Part7_2.png": {
+        "image_path": "SDD/test/good/kos34_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part0_0.png": {
+        "image_path": "SDD/test/good/kos35_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part1_0.png": {
+        "image_path": "SDD/test/good/kos35_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part1_1.png": {
+        "image_path": "SDD/test/good/kos35_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part1_2.png": {
+        "image_path": "SDD/test/good/kos35_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part2_1.png": {
+        "image_path": "SDD/test/good/kos35_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos35_Part3_1.png": {
+        "image_path": "SDD/test/good/kos35_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos36_Part0_2.png": {
+        "image_path": "SDD/test/good/kos36_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos36_Part1_0.png": {
+        "image_path": "SDD/test/good/kos36_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos36_Part5_0.png": {
+        "image_path": "SDD/test/good/kos36_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos36_Part6_1.png": {
+        "image_path": "SDD/test/good/kos36_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos36_Part6_2.png": {
+        "image_path": "SDD/test/good/kos36_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos37_Part1_1.png": {
+        "image_path": "SDD/test/good/kos37_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos37_Part2_1.png": {
+        "image_path": "SDD/test/good/kos37_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part1_2.png": {
+        "image_path": "SDD/test/good/kos38_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part2_1.png": {
+        "image_path": "SDD/test/good/kos38_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part4_0.png": {
+        "image_path": "SDD/test/good/kos38_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part5_0.png": {
+        "image_path": "SDD/test/good/kos38_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part5_1.png": {
+        "image_path": "SDD/test/good/kos38_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos38_Part7_0.png": {
+        "image_path": "SDD/test/good/kos38_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos39_Part2_0.png": {
+        "image_path": "SDD/test/good/kos39_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos39_Part5_2.png": {
+        "image_path": "SDD/test/good/kos39_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part0_0.png": {
+        "image_path": "SDD/test/good/kos40_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part3_2.png": {
+        "image_path": "SDD/test/good/kos40_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part4_1.png": {
+        "image_path": "SDD/test/good/kos40_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part5_0.png": {
+        "image_path": "SDD/test/good/kos40_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part5_2.png": {
+        "image_path": "SDD/test/good/kos40_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos40_Part6_0.png": {
+        "image_path": "SDD/test/good/kos40_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part0_1.png": {
+        "image_path": "SDD/test/good/kos41_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part2_0.png": {
+        "image_path": "SDD/test/good/kos41_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part4_0.png": {
+        "image_path": "SDD/test/good/kos41_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part5_0.png": {
+        "image_path": "SDD/test/good/kos41_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part5_1.png": {
+        "image_path": "SDD/test/good/kos41_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos41_Part6_2.png": {
+        "image_path": "SDD/test/good/kos41_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos42_Part0_0.png": {
+        "image_path": "SDD/test/good/kos42_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos42_Part0_1.png": {
+        "image_path": "SDD/test/good/kos42_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos42_Part6_1.png": {
+        "image_path": "SDD/test/good/kos42_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos43_Part0_0.png": {
+        "image_path": "SDD/test/good/kos43_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos43_Part1_0.png": {
+        "image_path": "SDD/test/good/kos43_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos43_Part1_2.png": {
+        "image_path": "SDD/test/good/kos43_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos43_Part4_0.png": {
+        "image_path": "SDD/test/good/kos43_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos43_Part6_2.png": {
+        "image_path": "SDD/test/good/kos43_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part1_2.png": {
+        "image_path": "SDD/test/good/kos44_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part3_1.png": {
+        "image_path": "SDD/test/good/kos44_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part4_1.png": {
+        "image_path": "SDD/test/good/kos44_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part5_0.png": {
+        "image_path": "SDD/test/good/kos44_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part6_0.png": {
+        "image_path": "SDD/test/good/kos44_Part6_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part7_1.png": {
+        "image_path": "SDD/test/good/kos44_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos44_Part7_2.png": {
+        "image_path": "SDD/test/good/kos44_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part0_2.png": {
+        "image_path": "SDD/test/good/kos45_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part2_1.png": {
+        "image_path": "SDD/test/good/kos45_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part3_2.png": {
+        "image_path": "SDD/test/good/kos45_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part5_1.png": {
+        "image_path": "SDD/test/good/kos45_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part5_2.png": {
+        "image_path": "SDD/test/good/kos45_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part6_1.png": {
+        "image_path": "SDD/test/good/kos45_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos45_Part7_1.png": {
+        "image_path": "SDD/test/good/kos45_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos46_Part1_1.png": {
+        "image_path": "SDD/test/good/kos46_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos46_Part4_0.png": {
+        "image_path": "SDD/test/good/kos46_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos46_Part5_0.png": {
+        "image_path": "SDD/test/good/kos46_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos46_Part6_2.png": {
+        "image_path": "SDD/test/good/kos46_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part1_0.png": {
+        "image_path": "SDD/test/good/kos47_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part4_0.png": {
+        "image_path": "SDD/test/good/kos47_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part4_2.png": {
+        "image_path": "SDD/test/good/kos47_Part4_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part5_1.png": {
+        "image_path": "SDD/test/good/kos47_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part5_2.png": {
+        "image_path": "SDD/test/good/kos47_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos47_Part7_0.png": {
+        "image_path": "SDD/test/good/kos47_Part7_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos48_Part1_0.png": {
+        "image_path": "SDD/test/good/kos48_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos48_Part5_0.png": {
+        "image_path": "SDD/test/good/kos48_Part5_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos48_Part6_2.png": {
+        "image_path": "SDD/test/good/kos48_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos48_Part7_2.png": {
+        "image_path": "SDD/test/good/kos48_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos49_Part0_2.png": {
+        "image_path": "SDD/test/good/kos49_Part0_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos49_Part1_2.png": {
+        "image_path": "SDD/test/good/kos49_Part1_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos49_Part3_2.png": {
+        "image_path": "SDD/test/good/kos49_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos49_Part6_2.png": {
+        "image_path": "SDD/test/good/kos49_Part6_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos50_Part0_0.png": {
+        "image_path": "SDD/test/good/kos50_Part0_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos50_Part1_0.png": {
+        "image_path": "SDD/test/good/kos50_Part1_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos50_Part3_2.png": {
+        "image_path": "SDD/test/good/kos50_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos50_Part4_0.png": {
+        "image_path": "SDD/test/good/kos50_Part4_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/good/kos50_Part6_1.png": {
+        "image_path": "SDD/test/good/kos50_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos01_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos01_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos02_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos02_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos03_Part2_0.png": {
+        "image_path": "SDD/test/defect/kos03_Part2_0.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos03_Part2_1.png": {
+        "image_path": "SDD/test/defect/kos03_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos04_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos04_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos05_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos05_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos06_Part7_1.png": {
+        "image_path": "SDD/test/defect/kos06_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos07_Part1_1.png": {
+        "image_path": "SDD/test/defect/kos07_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos08_Part2_2.png": {
+        "image_path": "SDD/test/defect/kos08_Part2_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos09_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos09_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos10_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos10_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos11_Part4_1.png": {
+        "image_path": "SDD/test/defect/kos11_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos12_Part5_2.png": {
+        "image_path": "SDD/test/defect/kos12_Part5_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos13_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos13_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos14_Part7_2.png": {
+        "image_path": "SDD/test/defect/kos14_Part7_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos15_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos15_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos15_Part3_2.png": {
+        "image_path": "SDD/test/defect/kos15_Part3_2.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos16_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos16_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos17_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos17_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos18_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos18_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos19_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos19_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos20_Part4_1.png": {
+        "image_path": "SDD/test/defect/kos20_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos21_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos21_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos22_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos22_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos23_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos23_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos24_Part1_1.png": {
+        "image_path": "SDD/test/defect/kos24_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos25_Part4_1.png": {
+        "image_path": "SDD/test/defect/kos25_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos26_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos26_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos27_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos27_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos28_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos28_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos29_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos29_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos30_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos30_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos31_Part1_1.png": {
+        "image_path": "SDD/test/defect/kos31_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos32_Part2_1.png": {
+        "image_path": "SDD/test/defect/kos32_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos33_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos33_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos34_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos34_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos35_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos35_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos36_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos36_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos37_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos37_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos38_Part0_1.png": {
+        "image_path": "SDD/test/defect/kos38_Part0_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos38_Part1_1.png": {
+        "image_path": "SDD/test/defect/kos38_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos39_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos39_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos39_Part7_1.png": {
+        "image_path": "SDD/test/defect/kos39_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos40_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos40_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos41_Part7_1.png": {
+        "image_path": "SDD/test/defect/kos41_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos42_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos42_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos43_Part1_1.png": {
+        "image_path": "SDD/test/defect/kos43_Part1_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos44_Part6_1.png": {
+        "image_path": "SDD/test/defect/kos44_Part6_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos45_Part3_1.png": {
+        "image_path": "SDD/test/defect/kos45_Part3_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos46_Part7_1.png": {
+        "image_path": "SDD/test/defect/kos46_Part7_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos47_Part2_1.png": {
+        "image_path": "SDD/test/defect/kos47_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos48_Part5_1.png": {
+        "image_path": "SDD/test/defect/kos48_Part5_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos49_Part2_1.png": {
+        "image_path": "SDD/test/defect/kos49_Part2_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    },
+    "SDD/test/defect/kos50_Part4_1.png": {
+        "image_path": "SDD/test/defect/kos50_Part4_1.png",
+        "conversation": [
+            {
+                "Question": "Are there any defects in the query image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection"
+            }
+        ],
+        "similar_templates": [
+        ],
+        "random_templates": [
+        ]
+    }
+}

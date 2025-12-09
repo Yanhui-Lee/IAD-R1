@@ -1,0 +1,153 @@
+{
+    "percent20":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/percent/dataset_20percent.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "percent40":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/percent/dataset_40percent.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "percent60":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/percent/dataset_60percent.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "percent80":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/percent/dataset_80percent.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Expert_AD_Stage_1_5*5":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/Ablation/PA-SFT/Expert_AD_Stage_1_5*5.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Expert_AD_Stage_1_4*4":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/Ablation/PA-SFT/Expert_AD_Stage_1_4*4.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Expert_AD_Stage_1_2*2":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/Ablation/PA-SFT/Expert_AD_Stage_1_2*2.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Expert_AD_Stage_1_1*1":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/Ablation/PA-SFT/Expert_AD_Stage_1_1*1.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Ans_Expert_AD_Stage_1":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/Ans_Expert_AD_Stage_1.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "Expert_AD_Stage_1":
+    {
+      "file_name": "/mnt/nfs/lyh/Project/IAD-R1/data/PA-SFT/Expert_AD_Stage_1.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "images": "images"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    }
+}
+  

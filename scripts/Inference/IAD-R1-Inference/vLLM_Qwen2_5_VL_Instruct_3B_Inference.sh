@@ -1,0 +1,6 @@
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_DAGM --model-path "model_path" --name "model_name"
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_DTD --model-path "model_path" --name "model_name"
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_SDD --model-path "model_path" --name "model_name"
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_MPDD --model-path "model_path" --name "model_name"
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_MVTec --model-path "model_path" --name "model_name"
+python vLLM_Qwen_detect_format.py  --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_VisA --model-path "model_path" --name "model_name"

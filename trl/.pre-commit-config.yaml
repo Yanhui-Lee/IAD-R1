@@ -1,0 +1,17 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.11.3
+    hooks:
+      - id: ruff
+        types_or: [ python, pyi ]
+        args: [ --fix ]
+      - id: ruff-format
+        types_or: [ python, pyi ]
+
+  # - repo: https://github.com/codespell-project/codespell
+  #   rev: v2.1.0
+  #   hooks:
+  #     - id: codespell
+  #       args:
+  #         - --ignore-words-list=nd,reacher,thist,ths,magent,ba
+  #         - --skip=docs/css/termynal.css,docs/js/termynal.js

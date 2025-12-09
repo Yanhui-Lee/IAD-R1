@@ -1,0 +1,6 @@
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_DAGM --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_DTD --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_SDD --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_MPDD --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_MVTec --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
+python vLLM_Anomaly_R1.py --batch_size 4 --gpu_memory_utilization 0.9 --few_shot_model 0 --test_dataset test_VisA --model-path "/mnt/nfs/lyh/Project/IAD-R1/AnomalyR1" --name AnomalyR1
